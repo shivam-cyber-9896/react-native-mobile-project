@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56449888789",
+    "project_id": "finace-89f90",
+    "storage_bucket": "finace-89f90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56449888789:android:0d22105f19ae1dded8941c",
+        "android_client_info": {
+          "package_name": "com.shivam.monocept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56449888789-vcmoi3uftre2179q4b8942kkfhk2djnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.monocept",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "56449888789-cn1uemt732p4jsjsosq0f85j3deejf7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffytTncHB9zn3dAXjSgey4eR55uaScxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56449888789-cn1uemt732p4jsjsosq0f85j3deejf7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
